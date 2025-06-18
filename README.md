@@ -55,7 +55,7 @@ I'm currently **open to new opportunities** and looking for a position where I c
 
 | Project | Description | Technologies | Key Skills |
 |--------|-------------|--------------|------------|
-| **E-Commerce Platform for a Media Company** | Developed and enhanced an online shop with POS integration for a large media company | PHP, Symfony, Shopware, SQL, Docker | Agile (Jira), Interface Dev, Team Coordination |
+| **E-Commerce Platform for a Media Company** | Developed and enhanced an online shop with POS integration for a large media company | PHP, Symfony, Shopware, SQL, Docker | Agile (Jira), Interface Dev and Integration, Team Coordination |
 | **Proprietary POS System** | Led development and roadmap of a modular POS system used across multiple stores | PHP, Symfony, JavaScript, SQL, Docker | QA, Testing, Planning, Documentation |
 | **POS Integration with Online Shop** | Integrated POS with an e-commerce platform for an educational center| PHP, Symfony, Docker | System Analysis, Client Coordination |
 | **Shopware 6 Store – Children's Clothing** | Co-led full implementation of an online store | PHP, Symfony, Shopware 6, Twig, Vue.js | Plugin Dev, Theming, UX Integration |
