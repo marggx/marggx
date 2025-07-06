@@ -2,7 +2,7 @@
 
 Hi, I'm **Maximilian Marggraf**, a Fullstack Engineer based in Berlin, Germany.
 
-I specialize in building scalable and maintainable applications — from enterprise e-commerce solutions to modular Point-of-Sale systems. With deep experience in PHP (Symfony, Shopware) and DevOps tools like Docker and GitLab CI.
+I specialize in building scalable and maintainable applications, from enterprise e-commerce solutions to modular Point-of-Sale systems. With deep experience in PHP (Symfony, Shopware) and DevOps tools like Docker and GitLab CI.
 
 I'm currently **open to new opportunities** and looking for a position where I can contribute to impactful products, work with modern stacks, and grow as part of a forward-thinking team.
 
