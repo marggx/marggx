@@ -4,8 +4,6 @@ Hi, I'm **Maximilian Marggraf**, a Fullstack Engineer based in Berlin, Germany.
 
 I specialize in building scalable and maintainable applications, from enterprise e-commerce solutions to modular Point-of-Sale systems. With deep experience in PHP (Symfony, Shopware) and DevOps tools like Docker and GitLab CI.
 
-I'm currently **open to new opportunities** and looking for a position where I can contribute to impactful products, work with modern stacks, and grow as part of a forward-thinking team.
-
 - 💼 4+ years professional experience as Fullstack Engineer  
 - 🔭 Most recently focused on PHP (Symfony, Shopware), Vue.js, and Docker  
 - 📚 Actively learning Go (Golang)  
@@ -50,17 +48,3 @@ I'm currently **open to new opportunities** and looking for a position where I c
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📂 Past Work Highlights
-
-| Project | Description | Technologies | Key Skills |
-|--------|-------------|--------------|------------|
-| **E-Commerce Platform for a Media Company** | Developed and enhanced an online shop with POS integration for a large media company | PHP, Symfony, Shopware, SQL, Docker | Agile (Jira), Interface Dev and Integration, Team Coordination |
-| **Proprietary POS System** | Led development and roadmap of a modular POS system used across multiple stores | PHP, Symfony, JavaScript, SQL, Docker | QA, Testing, Planning, Documentation |
-| **POS Integration with Online Shop** | Integrated POS with an e-commerce platform for an educational center| PHP, Symfony, Docker | System Analysis, Client Coordination |
-| **Shopware 6 Store – Children's Clothing** | Co-led full implementation of an online store | PHP, Symfony, Shopware 6, Twig, Vue.js | Plugin Dev, Theming, UX Integration |
-| **Shopware Plugin Projects** | Built and maintained custom plugins for clients and Shopware store | PHP, Symfony, Shopware | Custom Features, Maintenance, Client Support |
-
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=Marggx&theme=catppuccin_mocha&hide_border=false)
